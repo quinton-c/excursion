@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    font-family: verdana;
+    font-family: "Verdana", sans-serif;
     text-align: center;
     color: white;
 }
@@ -33,4 +33,5 @@ body {
     text-align: right;
     color: grey;
     font-weight: 400;
+    font-size: 21px;
 }
