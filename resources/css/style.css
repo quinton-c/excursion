@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-family: verdana;
+    text-align: center;
+    color: white;
+}
+
+.main-heading {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.downloadlink {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.subheading {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.tagline {
+    color: grey;
+    font-size: 21px;
+}
+
+.content {
+    padding: 10px;
+}
+
+.footertag {
+    text-align: right;
+    color: grey;
+    font-weight: 400;
+}
